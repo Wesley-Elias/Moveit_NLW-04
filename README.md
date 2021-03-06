@@ -23,7 +23,7 @@
   <a href="#page_facing_up-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer_and_wrench-tecnologias">Tecnologias</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🖼️-imagens-do-projeto">Imagens do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#frame_with_picture-imagens-do-projeto">Imagens do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-requisitos-para-rodar-a-aplicação">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-rodando-a-aplicação">Rodando a Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#thought_balloon-inspiração">Inspiração</a>
@@ -82,7 +82,7 @@
 * [Figma](https://www.figma.com/) - Ferramenta de criação design de interfaces. 
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE de Desenvolvimento.
   
-## 🖼️ Imagens do Projeto
+## :frame_with_picture: Imagens do Projeto
 
 <div align="center" >
   <img src="public/img/Home.png" width="100%"/>
